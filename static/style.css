@@ -1,0 +1,40 @@
+
+
+h3{
+    text-align: center;
+}
+
+
+/* .container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    } */
+
+
+/* 
+.box{
+    background-color: var(--color);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid black;
+} */
+
+
+
+table tr td{
+    width: 50px;
+    height: 50px;
+}
+
+.color1{
+    background-color: blue;
+}
+
+.color2{
+    background-color: red;
+}
